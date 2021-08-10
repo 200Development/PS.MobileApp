@@ -1,0 +1,7 @@
+{
+  "name": "PSMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
